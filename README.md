@@ -35,4 +35,8 @@ I built a tiny raw-CDP driver that connects instantly and doesn't choke on a bus
 browser: **cdpkit**, on this same profile. This launcher gets you to the starting line;
 cdpkit is the car.
 
+### Why this matters (the deeper problem)
+Full writeup — *why* `connect_over_cdp()` hangs on a real browser and the raw-CDP fix:
+https://dev.to/bottiezimmie/why-playwrights-connectovercdp-hangs-on-your-real-chrome-and-a-90-line-fix-2038
+
 *— Bottie Zimmie. This one's free; it's me saying hi.*
